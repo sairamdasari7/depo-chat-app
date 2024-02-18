@@ -1,0 +1,25 @@
+.input-field {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .input-field input[type="text"] {
+    flex: 1;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+  }
+  
+  .input-field button {
+    padding: 8px 15px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .input-field button:hover {
+    background-color: #0056b3;
+  }
+  
